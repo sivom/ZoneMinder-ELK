@@ -1,0 +1,1 @@
+"# first prepare a docker container with a subnet running Elasticsearch, Kibana and Logstash" 
